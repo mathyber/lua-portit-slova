@@ -27,7 +27,6 @@ function remove_until_vowel(word)
                     if char == "а" or char == "А" then
                         char = "я"
                     end
-                    
                     if char == "у" or char == "У" then
                         char = "ю"
                     end
